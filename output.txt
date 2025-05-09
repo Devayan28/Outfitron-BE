@@ -1,0 +1,42 @@
+Starting dual-image analysis with MediaPipe...
+Downloading model to /usr/local/python/3.12.1/lib/python3.12/site-packages/mediapipe/modules/pose_landmark/pose_landmark_heavy.tflite
+
+=== RESULTS ===
+Skin Tone: Very Fair
+Undertone: Cool
+Texture: Smooth
+Recommended Colors: ['Baby Blue', 'Lavender', 'Silver', 'Mint', 'Powder Pink']
+
+Body Type: Inverted Triangle
+Measurements:
+  Shoulder: 43.5px
+  Waist: 26.4px
+  Hips: 20.1px
+  Shoulder/Hip Ratio: 2.16
+  Waist/Hip Ratio: 1.31
+
+Top Clothing Recommendations:
+  Best Tops:
+    - Scoop necks and V-necks
+    - Dark colored tops
+    - Simple, clean designs
+  Best Bottoms:
+    - Flared pants to balance shoulders
+    - Patterned skirts and pants
+    - A-line skirts
+  Dresses:
+    - A-line dresses
+    - Wrap dresses
+    - Dresses with full skirts
+
+Skincare Routine:
+  Cleanser: Gentle non-foaming cleanser (like cream or milk cleansers)
+  Sunscreen: SPF 50+ physical sunscreen with zinc oxide
+  Moisturizer: Lightweight gel-cream with hyaluronic acid
+  Special Notes: Very prone to sun damage - reapply sunscreen every 2 hours
+  Treatment: Hydration serum with hyaluronic acid
+  Exfoliation: Gentle enzymatic exfoliant 1-2x/week
+  Note: Try brightening ingredients (vitamin C, licorice root)
+  Avoid: Very warm-toned makeup that may look orange
+
+Visual report saved as 'style_analysis_report.jpg'
